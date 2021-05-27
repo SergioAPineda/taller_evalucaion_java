@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì÷Áÿøÿÿÿÿ
+J
+java:S6212	"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(á‘¸€úÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¹ë€øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šª€ûşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÄ¯ûÿÿÿÿ
+K
+java:S1874"0Remove this use of "getHours"; it is deprecated.(ãÄ¯ûÿÿÿÿ
+M
+java:S1874"2Remove this use of "getMinutes"; it is deprecated.(ãÄ¯ûÿÿÿÿ
+M
+java:S1874"2Remove this use of "getSeconds"; it is deprecated.(ãÄ¯ûÿÿÿÿ

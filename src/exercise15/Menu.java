@@ -1,4 +1,4 @@
-package exercise14;
+package exercise15;
 
 public class Menu {
     private String options;

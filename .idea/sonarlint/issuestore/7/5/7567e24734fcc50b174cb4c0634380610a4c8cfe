@@ -1,0 +1,10 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal " veces" 5 times.(‚¬žý
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ê‡Óýÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Ñõ•¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŽüÑ¥
+Q
+java:S6212"/Declare this local variable with "var" instead.(¢Ž¸Òüÿÿÿÿ8ð±ÚÛš/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Èœš'8†ÍÚÛš/
