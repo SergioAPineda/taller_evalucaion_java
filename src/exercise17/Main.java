@@ -7,20 +7,21 @@ public class Main {
 
         Appliance[] electrodomesticos = new Appliance[10];
 
-        electrodomesticos[0] = new WashingMachine(150, 50);
-        electrodomesticos[1] = new Appliance(150, "rojo", 'B', 20);
-        electrodomesticos[2] = new Television(150, "negro", 'A', 10, 50, true);
-        electrodomesticos[3] = new WashingMachine(200, "gris", 'D',10,20 );
-        electrodomesticos[4] = new Appliance(180, 50);
-        electrodomesticos[5]= new Television(150, "negro",'F',10,50,true);
-        electrodomesticos[6]= new Appliance(150,"negro",'C',20 );
-        electrodomesticos[7]= new Appliance(190, 50);
-        electrodomesticos[8]= new Television(150, "gris",'A',10,50,false);
-        electrodomesticos[9]= new WashingMachine(200, "blanco",'A',10,30);
+        electrodomesticos[0] = new WashingMachine(150, 35);
+        electrodomesticos[1] = new WashingMachine(180, 45);
+        electrodomesticos[2] = new WashingMachine(200, 55);
+        electrodomesticos[3] = new WashingMachine(220, 65);
+        electrodomesticos[4] = new Appliance(200, "violeta", 'F', 65);
+        electrodomesticos[5] = new Appliance(190, "Amarillo", 'A', 60);
+        electrodomesticos[6] = new Appliance(180, "Cafe", 'C', 55);
+        electrodomesticos[7] = new Appliance(170, "Dorado", 'A', 50);
+        electrodomesticos[8] = new Television(125, "Rojo", 'D', 10, 32, true);
+        electrodomesticos[9] = new Television(225, "Aguamarina", 'C', 20, 55, true);
 
         Main.filterWashingmMachine(electrodomesticos);
-        Main.filterTv(electrodomesticos);
         Main.filterAppliance(electrodomesticos);
+        Main.filterTv(electrodomesticos);
+
     }
 
     public static void filterWashingmMachine(Appliance[] elec){
